@@ -1,0 +1,216 @@
+{
+    "name": "KeyconFigInputs",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "657cd644-3877-4ab4-99e0-cc0491e5aaa0",
+            "actions": [
+                {
+                    "name": "RightCtrl_Standard",
+                    "type": "Button",
+                    "id": "0b378418-455e-4c95-80ce-d4d2cf318be7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftCtrl_Standard",
+                    "type": "Button",
+                    "id": "261abf85-7a52-4875-8b33-b0d3cb0d1859",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RightClick_Standard",
+                    "type": "Button",
+                    "id": "6ab1d7c6-3ca5-45c1-bdd5-2ab0fca7d63e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftClick_Standard",
+                    "type": "Button",
+                    "id": "3d9f8a74-a555-46d4-81de-1550339f4e08",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RightShift_Standard",
+                    "type": "Button",
+                    "id": "0de1d274-e0ec-466e-868f-9aaee535e5a8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftShift_Standard",
+                    "type": "Button",
+                    "id": "b7597301-351b-48f1-a693-5500d160e44f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AKye_Standard",
+                    "type": "Button",
+                    "id": "734edc59-d706-4db2-804a-bf98a2784a8c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CursorPosition",
+                    "type": "Value",
+                    "id": "d8a426df-ebb7-4c3b-b559-54c3bf9b46fa",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "Tap",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Enter_Standard",
+                    "type": "Button",
+                    "id": "514c5e35-08e5-4b6a-801e-846745d1ea19",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ef44c5ea-fbcb-4372-8e18-715b459359dc",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightClick_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0a68c4f4-0f2d-4576-9c03-79cc4a3debe7",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftClick_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "61127cb2-c02f-4989-b42b-9572b12abde2",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftShift_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d6b58c0d-1123-44db-96fe-35d2ad4388b4",
+                    "path": "<Keyboard>/rightCtrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightCtrl_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "df5e3e17-c20a-45bd-b897-4042501608ca",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightShift_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e8bef5df-5046-46ca-bed8-ca22fd4aa061",
+                    "path": "<Keyboard>/leftCtrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftCtrl_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "150f3bac-0002-4444-8a3f-39cc866277e8",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AKye_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Press Position",
+                    "id": "cc632946-5c44-4244-8edb-1cb7cfd26239",
+                    "path": "PressPosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CursorPosition",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "press",
+                    "id": "12bf279c-69e5-4276-be2d-9fc0a6d3b423",
+                    "path": "<Pointer>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CursorPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "position",
+                    "id": "7aa18495-1629-4970-af01-d33afe4b79f5",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CursorPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "44a54163-870d-47f9-9f7f-cd36e22e81f9",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Enter_Standard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

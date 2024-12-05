@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefolderdisplayareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefolderdisplayareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\grantdatasortsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grantdatasortsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\loadingandsavingfilefoldersscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingandsavingfilefoldersscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefoldersavingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefoldersavingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\breadcrumblistscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breadcrumblistscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|e:\\unityprojects\\materialfoldermanagement\\materialfoldermanagement\\assets\\scripts\\copypastebuttonwindow_1script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastebuttonwindow_1script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastebuttonwindow_3script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastebuttonwindow_3script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\playingwavfilesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playingwavfilesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\conditionalsearchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conditionalsearchscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\movefilefolderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movefilefolderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastebuttonwindowcommonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastebuttonwindowcommonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastewindow3_renameareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastewindow3_renameareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastebuttonwindow_2script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastebuttonwindow_2script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\copypastewindow3_renamearea_buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\copypastewindow3_renamearea_buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\cursorinformationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursorinformationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxbuttoncommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxbuttoncommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefolderpathmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefolderpathmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefolderloadingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefolderloadingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefoldersgrantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefoldersgrantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefolderinformation_hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefolderinformation_hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxhashtagbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxhashtagbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\informationcommonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\informationcommonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\filefolderinformationareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filefolderinformationareascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxdefaultbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxdefaultbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\assets\\scripts\\searchboxtogglebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E38E84-35B5-ADF7-814E-C8F35E0AC177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\searchboxtogglebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileFolderSavingScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderSavingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderSavingScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderSavingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderSavingScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:39:55.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CopyPasteButtonWindow_1Script.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_1Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteButtonWindow_1Script.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_1Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteButtonWindow_1Script.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAkwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:04:17.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrantDataSortsScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\GrantDataSortsScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrantDataSortsScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\GrantDataSortsScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrantDataSortsScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:03:46.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadingAndSavingFileFoldersScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\LoadingAndSavingFileFoldersScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingAndSavingFileFoldersScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\LoadingAndSavingFileFoldersScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingAndSavingFileFoldersScript.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAUwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:22:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileFolderDisplayAreaScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderDisplayAreaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderDisplayAreaScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderDisplayAreaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderDisplayAreaScript.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAkBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:10:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BreadcrumbListScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\BreadcrumbListScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BreadcrumbListScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\BreadcrumbListScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BreadcrumbListScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:03:23.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CopyPasteButtonWindow_3Script.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_3Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteButtonWindow_3Script.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_3Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteButtonWindow_3Script.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:09:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayingWavFilesScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\PlayingWavFilesScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayingWavFilesScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\PlayingWavFilesScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayingWavFilesScript.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:31:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CopyPasteButtonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteButtonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteButtonScript.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwIAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:52:31.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CopyPasteButtonWindowCommonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindowCommonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteButtonWindowCommonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindowCommonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteButtonWindowCommonScript.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvw4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:05:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CursorInformationScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CursorInformationScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorInformationScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CursorInformationScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorInformationScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:15:15.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CopyPasteWindow3_RenameArea_ButtonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteWindow3_RenameArea_ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteWindow3_RenameArea_ButtonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteWindow3_RenameArea_ButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteWindow3_RenameArea_ButtonScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:43:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CopyPasteWindow3_RenameAreaScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteWindow3_RenameAreaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteWindow3_RenameAreaScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteWindow3_RenameAreaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteWindow3_RenameAreaScript.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:25:55.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CopyPasteButtonWindow_2Script.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_2Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CopyPasteButtonWindow_2Script.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\CopyPasteButtonWindow_2Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CopyPasteButtonWindow_2Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:06:53.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileFoldersGrantData.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFoldersGrantData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFoldersGrantData.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFoldersGrantData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFoldersGrantData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:45:50.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchBoxButtonCommon.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxButtonCommon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxButtonCommon.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxButtonCommon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxButtonCommon.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:29:04.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchBoxScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxScript.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:28:44.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoveFileFolderScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\MoveFileFolderScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveFileFolderScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\MoveFileFolderScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveFileFolderScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:12:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileFolderLoadingScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderLoadingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderLoadingScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderLoadingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderLoadingScript.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwJUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:56:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchBoxHashtagButtonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxHashtagButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxHashtagButtonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxHashtagButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxHashtagButtonScript.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:29:21.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConditionalSearchScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\ConditionalSearchScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConditionalSearchScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\ConditionalSearchScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConditionalSearchScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:23:54.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileFolderPathManagement.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderPathManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderPathManagement.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderPathManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderPathManagement.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAmwJIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:12:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileFolderInformation_Hashtag.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderInformation_Hashtag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderInformation_Hashtag.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderInformation_Hashtag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderInformation_Hashtag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:55:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchBoxMenuScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxMenuScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxMenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxMenuScript.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:40:01.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InformationCommonUI.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\InformationCommonUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InformationCommonUI.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\InformationCommonUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InformationCommonUI.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAwH8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:08:08.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SearchBoxDefaultButtonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxDefaultButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxDefaultButtonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxDefaultButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxDefaultButtonScript.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:28:54.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SearchBoxToggleButtonScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxToggleButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SearchBoxToggleButtonScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\SearchBoxToggleButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SearchBoxToggleButtonScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:27:55.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileFolderInformationAreaScript.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderInformationAreaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FileFolderInformationAreaScript.cs",
+              "ToolTip": "E:\\UnityProjects\\MaterialFolderManagement\\MaterialFolderManagement\\Assets\\Scripts\\FileFolderInformationAreaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FileFolderInformationAreaScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:55:29.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
