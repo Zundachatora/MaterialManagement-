@@ -1,3 +1,4 @@
+就職活動用に制作した物です。
 # MaterialFolderManagement
 3分の紹介動画(https://1drv.ms/v/s!AoVv-EFPqdKMlbRWPUUlP6Q_NFD2ZQ?e=mHqkdN)
  Unityでファイルとフォルダを管理をする。ファイルの検索や再生、タグ付け、コピー、なども出来る様にする。  
